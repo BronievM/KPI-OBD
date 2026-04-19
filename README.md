@@ -47,7 +47,7 @@
 | **1** | Збір вимог та розробка схеми ER | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR1) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR1/L1.md) |
 | **2** | Перетворення ER-діаграми на схему **PostgreSQL** | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR2) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR2/L2.md) |
 | **3** | Маніпулювання даними SQL (OLTP)  | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR3) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR3/L3.md) |
-| **3** | Аналітичні SQL-запити (OLAP)  | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR4) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR4/L4.md) |
+| **4** | Аналітичні SQL-запити (OLAP)  | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR4) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR4/L4.md) |
 
 ---
 
