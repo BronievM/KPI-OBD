@@ -48,6 +48,7 @@
 | **2** | Перетворення ER-діаграми на схему **PostgreSQL** | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR2) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR2/L2.md) |
 | **3** | Маніпулювання даними SQL (OLTP)  | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR3) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR3/L3.md) |
 | **4** | Аналітичні SQL-запити (OLAP)  | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR4) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR4/L4.md) |
+| **5** | Нормалізація бази даних | [📁 Репозиторій](https://github.com/BronievM/KPI-OBD/tree/main/LR5) | [📝 Звіт](https://github.com/BronievM/KPI-OBD/blob/main/LR5/L5.md) |
 
 ---
 
